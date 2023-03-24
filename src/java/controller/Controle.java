@@ -87,7 +87,7 @@ public class Controle extends HttpServlet {
                     break;
             }
             request.setAttribute("m", msg);
-            RequestDispatcher disp = request.getRequestDispatcher("mensagens.jps");
+            RequestDispatcher disp = request.getRequestDispatcher("mensagens.jsp");
             disp.forward(request, response);
         }    
     }

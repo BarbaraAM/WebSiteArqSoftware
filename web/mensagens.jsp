@@ -12,6 +12,6 @@
         <title>Site da Babinha</title>
     </head>
     <body>
-        <h1>Usuário não encontrado!@@###%¨&(&¨$@#@$#%%$$¨%</h1>
+        <h1>Próxima aula....</h1>
     </body>
 </html>
